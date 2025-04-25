@@ -17,7 +17,7 @@ Bukim, 3 ila 8 kişiyle oynanabilen eğlenceli bir kişilik tahmin oyunudur. Oyu
 ## İletişim
 
 Sorularınız için bizimle iletişime geçebilirsiniz:  
-📧 [destek@ornekmail.com] *(varsa kendi mail adresinle değiştir)*
+📧 [muhammederbay44@gmail.com] *(varsa kendi mail adresinle değiştir)*
 
 ---
 
